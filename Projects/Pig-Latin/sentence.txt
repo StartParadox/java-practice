@@ -1,0 +1,5 @@
+Testing the pigLatinfy Method!!!
+123 123
+Hello World
+The quick brown fox
+
