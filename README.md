@@ -1,3 +1,3 @@
 # java-practice
 
-Combining all java practice repos
+Simple programs made to learn java
